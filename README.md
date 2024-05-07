@@ -30,6 +30,6 @@
 <div align="center">
 <a href="https://github.com/HassanAlwakeel1">
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAlwakeel1&layout=compact&theme=dark" alt=HassanAlwakeel1 />
-
+<br>
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=HassanAlwakeel1&show_icons=true&locale=en&theme=dark" alt="HassanAlwakeel1" /></p>
 </div>
